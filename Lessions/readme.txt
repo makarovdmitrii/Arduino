@@ -1,1 +1,1 @@
-//Here we can find Ardiono lessions from skratch 
+//Here we can find Arduino lessions from skratch 
